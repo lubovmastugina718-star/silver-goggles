@@ -9,3 +9,7 @@ Initial commit.
 Fix timeout issue
 
 # Improve performance
+
+## Update
+
+Add retry logic
