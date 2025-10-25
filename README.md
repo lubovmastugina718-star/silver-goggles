@@ -23,3 +23,7 @@ Fix race condition
 Add feature flag
 
 # Fix security issue
+
+## Update
+
+Update environment variables
