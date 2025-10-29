@@ -27,3 +27,7 @@ Add feature flag
 ## Update
 
 Update environment variables
+
+## Update
+
+Add type hints
