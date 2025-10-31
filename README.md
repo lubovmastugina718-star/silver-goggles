@@ -31,3 +31,7 @@ Update environment variables
 ## Update
 
 Add type hints
+
+## Update
+
+Fix async/await issue
