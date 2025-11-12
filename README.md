@@ -35,3 +35,7 @@ Add type hints
 ## Update
 
 Fix async/await issue
+
+## Update
+
+Add configuration options
