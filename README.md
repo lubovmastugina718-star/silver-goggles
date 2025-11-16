@@ -39,3 +39,7 @@ Fix async/await issue
 ## Update
 
 Add configuration options
+
+## Update
+
+Update build script
