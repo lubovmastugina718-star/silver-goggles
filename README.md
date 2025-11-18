@@ -43,3 +43,7 @@ Add configuration options
 ## Update
 
 Update build script
+
+## Update
+
+Update README with examples
