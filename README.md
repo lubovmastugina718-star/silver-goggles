@@ -77,3 +77,5 @@ Update CI/CD config
 Fix data parsing
 
 <!-- Update documentation -->
+
+<!-- Fix linting errors -->
