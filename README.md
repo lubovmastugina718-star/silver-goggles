@@ -51,3 +51,7 @@ Update README with examples
 ## Update
 
 Update config files
+
+## Update
+
+Add error handling
