@@ -55,3 +55,7 @@ Update config files
 ## Update
 
 Add error handling
+
+## Update
+
+Fix typo in README
