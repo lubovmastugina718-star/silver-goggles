@@ -59,3 +59,7 @@ Add error handling
 ## Update
 
 Fix typo in README
+
+## Update
+
+Add retry logic
