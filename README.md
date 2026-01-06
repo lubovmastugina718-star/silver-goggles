@@ -63,3 +63,7 @@ Fix typo in README
 ## Update
 
 Add retry logic
+
+## Update
+
+Add unit tests
