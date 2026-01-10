@@ -67,3 +67,7 @@ Add retry logic
 ## Update
 
 Add unit tests
+
+## Update
+
+Update CI/CD config
