@@ -5,3 +5,5 @@
 # Fix memory leak
 
 # Add new test case
+
+# Update build script
