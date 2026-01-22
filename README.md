@@ -71,3 +71,7 @@ Add unit tests
 ## Update
 
 Update CI/CD config
+
+## Update
+
+Fix data parsing
